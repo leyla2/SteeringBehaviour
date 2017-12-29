@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/4th save.unity
+- path: Assets/Final ai game.unity
   isLoaded: 1
   isActive: 1
