@@ -12,6 +12,6 @@ public class Follower : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         transform.LookAt(car);
-        transform.Translate(Vector3.forward * 5 * Time.deltaTime);
+        transform.Translate(Vector3.forward * 50 * Time.deltaTime);
     }
 }
